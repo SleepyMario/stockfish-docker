@@ -11,4 +11,3 @@ docker run --rm -it \
 	--name stockfish-10 \
 	stockfish:10
 ```	
-                                                           1,1           Top
