@@ -6,9 +6,9 @@
   
 # How to run
 * Edit the command below to your needs and execute it to get some nothingness. 
-sh```
+```sh
 docker run --rm -it \
 	--name stockfish-10 \
 	stockfish:latest
-```sh	
+```	
                                                            1,1           Top
