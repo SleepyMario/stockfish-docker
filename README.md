@@ -11,4 +11,3 @@ docker run --rm -it \
 	--name stockfish-10 \
 	stockfish:latest
 ```	
-                                                           1,1           Top
