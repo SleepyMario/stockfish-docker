@@ -9,6 +9,6 @@
 ```sh
 docker run --rm -it \
 	--name stockfish-10 \
-	stockfish:latest
+	stockfish:10
 ```	
                                                            1,1           Top
