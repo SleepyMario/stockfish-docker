@@ -8,6 +8,6 @@
 * Edit the command below to your needs and execute it to get some nothingness. 
 ```sh
 docker run --rm -it \
-	--name stockfish-10 \
-	stockfish:10
+	--name stockfish-$BRANCH \
+	stockfish:$BRANCH
 ```	
